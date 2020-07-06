@@ -1,0 +1,12 @@
+{
+  "name": "okta-rn",
+  "displayName": "okta-rn",
+  "expo": {
+    "name": "okta-rn",
+    "slug": "okta-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
